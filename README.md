@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html lang="en-US">
 
@@ -170,6 +170,4 @@ into chunks from that.
             <h1>LINKS </h1> 
             <a href="https://www.google.com/search?q=fish+fingers+recipe&start=10" >Search for other fish fingers recipes </a>
 
-    </body>
 
-</html>
