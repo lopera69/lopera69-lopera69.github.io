@@ -1,13 +1,11 @@
-
+<!DOCTYPE html>
 
 <html lang="en-US">
 
     <head>
 
         <meta  charset="UTF-8">
-        <meta name="author" content="Dave Gray">
-        <meta name="description" content="This page contains all the things I am learning how to
-        create as I learn HTML. ">
+  
         <title>My First Web Page</title>
     </head>
 
@@ -172,4 +170,6 @@ into chunks from that.
             <h1>LINKS </h1> 
             <a href="https://www.google.com/search?q=fish+fingers+recipe&start=10" >Search for other fish fingers recipes </a>
 
+    </body>
 
+</html>
